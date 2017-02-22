@@ -1,0 +1,26 @@
+a:link {
+    text-decoration: none;
+    color: #57d2b9;
+    font-size: 14px;
+}
+a:visited {
+    text-decoration: none;
+    color: #57d2b9;
+}
+a:active {
+    text-decoration: none;
+    color: #424242;
+}
+
+.read-more-button {
+    margin: 10px 0 15px 0;
+    color: #57d2b9;
+}
+
+
+
+.read-more-button:hover {
+    font-size: 16px; /* Размер шрифта */
+    font-weight: bolder; /* Жирное начертание */
+    color: #424242; /* Цвет ссылки */
+}

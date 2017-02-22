@@ -1,0 +1,19 @@
+.Menu {
+    float: right;
+    margin: auto 0;
+}
+
+.menu-element {
+    width: auto;
+    height: 20px;
+    font-weight: bold;
+    color: #708090;
+    margin: 0 5px 0 5px;
+    padding: 34px 10px 23px 10px;
+    float: left;
+}
+
+.menu-element:hover {
+    color: #57d2b9;
+    border-bottom: 3px solid #57d2b9;
+}

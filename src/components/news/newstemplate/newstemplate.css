@@ -1,0 +1,16 @@
+h1 {
+    font-size: 16pt;
+    color: #8a8a8a;
+    margin: 5px 0 5px 0;
+}
+
+.news-template {
+    width: 80%;
+    height: auto;
+    padding: 30px 0 0 0;
+    margin: 1px auto;
+    border-bottom: 2px #E8E8E8 solid;
+    font-family: Arial, sans-serif;
+    color: #aeaeae;
+    background-color: #fff;
+}

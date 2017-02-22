@@ -1,0 +1,17 @@
+.search {
+    margin: 20px 0;
+    width: 230px;
+    height: 35px;
+    border: 1px solid #d6d6d6;
+    background-color: #ffffff;
+    -webkit-border-radius: 20px 20px 20px 20px;
+    border-radius: 20px 20px 20px 20px;
+    float: left;
+}
+
+.search-icon {
+    width: 25px;
+    height: 25px;
+    float: left;
+    margin: 3px 10px;
+}
